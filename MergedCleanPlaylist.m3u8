@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://tinyurl.com/merged2423-epg"
-# Last forced update: 2025-07-15T11:52:20.583885Z
+# Last forced update: 2025-07-15T12:35:25.678335Z
 
 #EXTGRP: Mystique Caribbean
 #EXTINF:-1 tvg-name="CVM" tvg-id="Local.Programming.Dummy.us" tvg-logo="https://cvssja.org/wp-content/uploads/2020/06/CVM-Logo-2016.png" group-title=" Mystique Caribbean", CVM (Jamaica)
@@ -2682,6 +2682,12 @@ http://vthanh.utako.moe/wlive/index.m3u8
 http://vthanh.utako.moe/wprime/index.m3u8
 #EXTINF:-1  tvg-id="JOIXDTV.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png" group-title="JapanTV",ytv
 http://vthanh.utako.moe/ytv/index.m3u8
+
+#EXTGRP:MLB
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="American League @ National League (07/15 8:00 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",American League @ National League (07/15 8:00 Pm Et) Hd
+https://tvpass.org/live/WNYWDT1/hd
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-name="American League @ National League (07/15 8:00 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Baseball3.png" group-title="MLB",American League @ National League (07/15 8:00 Pm Et) Sd
+https://tvpass.org/live/WNYWDT1/sd
 
 #EXTGRP:MoveOnJoy
 #EXTINF:-1  tvg-name="5 StarMax" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" group-title="MoveOnJoy" radio="false",5 StarMax
@@ -7224,59 +7230,59 @@ https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=szNvCOrvuuYd_pyIQlLlag&expires=1752621435&t=1752578235
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=xQFzckusE8k63bQR7CQDQQ&expires=1752626401&t=1752583201
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 COWS
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=tTIEBF_H9qd6OnYiLPZoAA&expires=1752621412&t=1752578212
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 Family​‌​​​​​​‌‌‌​‌‌​​‌​​​‌‌​‌‌​‌‌​​​​ Guy
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1YzlmNWM5ZGQ1ODJmLTcxOTgtNzBkNC1hYzM5LWQyOWM3MjAz/master.m3u8?md5=3yZEh66QASIJ1mzNjcB5bQ&expires=1752626377&t=1752583177
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 Family‌​​​​‌‌‌‌‌‌​‌​​​‌‌‌​‌​​​​‌​​​‌​​ Guy
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=ViHUDxJk4Yg1sBQhudYI8A&expires=1752621420&t=1752578220
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1YTA5ZTU3MjFhNTI0LWRkZTktZTRlNC1mMzU4LTQwMWI0YjJk/master.m3u8?md5=nuvlNydc2jux6iqxEQAS2w&expires=1752626385&t=1752583185
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 South Park
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=rxH7J9NESY-65YBpYsBNtw&expires=1752621404&t=1752578204
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1ZGEyNDNkZWMyNzFjLWU2OWItNzFlNC00NWU5LTUyODY0MWIz/master.m3u8?md5=Y6q19xosj6XBdVBJvY191w&expires=1752626369&t=1752583169
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",24/7 The Simpsons
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=o3okDcNIVmUPamWsFaNkPA&expires=1752621428&t=1752578228
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1MGQzNzI5MTE0YjQwLTVmYmEtYmE3NC1kOThlLWY2MmU4NGI4/master.m3u8?md5=sGqRHKX_aIkEb32l3GZUCw&expires=1752626393&t=1752583193
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/247.png" group-title="PPVLand - Live Channels 24/7",ESPN
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1NTQ0NGVmZTYyM2I2LTk2N2ItOGRlNC1mOTY2LTMyZjQxMzBm/master.m3u8?md5=cN7QiqDTLGo682NA89JP7w&expires=1752621396&t=1752578196
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1NTQ0NGVmZTYyM2I2LTk2N2ItOGRlNC1mOTY2LTMyZjQxMzBm/master.m3u8?md5=FQYXFZSW5xFXCa2LyLrENQ&expires=1752626361&t=1752583161
 
 #EXTGRP:PPVLand - Wrestling Events
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Wrestling.png" group-title="PPVLand - Wrestling Events",AEW: Saturday Night Collision
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=CIHI6aLGsTx_uvE1jthx8Q&expires=1752621388&t=1752578188
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=EgZ9JKGCo2nIyWPklcYBsA&expires=1752626354&t=1752583154
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Wrestling.png" group-title="PPVLand - Wrestling Events",AEW: Wednesday Night Dynamite
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=e6fG_cj9pltp_ZaimDVOIg&expires=1752621363&t=1752578163
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=szKWQDJLbl5-HzBcXNtsfw&expires=1752626329&t=1752583129
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Wrestling.png" group-title="PPVLand - Wrestling Events",TNA: Impact
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=z6yfMLOzk8XVgDJg0ne9mA&expires=1752621372&t=1752578172
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=iIrN60Wgz2R_3betyBT29Q&expires=1752626337&t=1752583137
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Wrestling.png" group-title="PPVLand - Wrestling Events",WWE: Friday Night Smackdown
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=_V0w64-Nr-GlIF-xDkYi6Q&expires=1752621380&t=1752578180
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=lwzg2dK0q5hZAw41Jb3Zpw&expires=1752626346&t=1752583146
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Wrestling.png" group-title="PPVLand - Wrestling Events",WWE: NXT
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=oGmLjgJmFTQ_MKl68tJyXQ&expires=1752621354&t=1752578154
+https://5nhp186eg31fofnc.api-redeem-coupon.click/v3/director/VE1Y2MyYTFhM2RmNmJjLTk1MGItZjdiNC03YTQ1LTA3ZTdkMmYy/master.m3u8?md5=_KokUEftlYStVjAjgtfd3w&expires=1752626320&t=1752583120
 
 #EXTGRP:SamsungTVPlus Canada
 #EXTINF:-1  tvg-name="21 Jump Street" tvg-id="CABB26000082J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABB26000082J_20250121T094036SQUARE.png" tvg-chno="1600" group-title="SamsungTVPlus Canada",21 Jump Street
@@ -10989,3 +10995,13 @@ https://ott.udptv.org/stream/skyde/warnertvcomedy/master.m3u8?u=discord.gg/civ4&
 https://ott.udptv.org/stream/skyde/warnertvfilm/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
 #EXTINF:-1  tvg-name="Warner TV Serie DE" tvg-id="skyde/warnertvserie" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/germany/warner-tv-serie-de.png?raw=true" group-title="UDPTV Live Streams",Warner TV Serie DE
 https://ott.udptv.org/stream/skyde/warnertvserie/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+
+#EXTGRP:WNBA
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Indiana Fever @ Connecticut Sun (07/15 8:00 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Indiana Fever @ Connecticut Sun (07/15 8:00 Pm Et) Hd
+https://tvpass.org/live/WNBA01/hd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Indiana Fever @ Connecticut Sun (07/15 8:00 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Indiana Fever @ Connecticut Sun (07/15 8:00 Pm Et) Sd
+https://tvpass.org/live/WNBA01/sd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Washington Mystics @ Los Angeles Sparks (07/15 10:00 Pm Et) Hd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Washington Mystics @ Los Angeles Sparks (07/15 10:00 Pm Et) Hd
+https://tvpass.org/live/WNBA02/hd
+#EXTINF:-1 tvg-id="WNBA.dummy.us" tvg-name="Washington Mystics @ Los Angeles Sparks (07/15 10:00 Pm Et) Sd" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/WNBA.png" group-title="WNBA",Washington Mystics @ Los Angeles Sparks (07/15 10:00 Pm Et) Sd
+https://tvpass.org/live/WNBA02/sd
