@@ -1,20 +1,32 @@
-# Updated at 2025-09-01T03:15:44.262170Z
+# Updated at 2025-09-01T04:23:39.820240Z
 #EXTM3U
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="StreamEast - Am. Football",Detroit vs. Green Bay Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756700635-pk6DSf8D6XxeR%2BSWApYN9fBmWtECALj7cJEKQBvZVXQ%3D
+
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="StreamEast - Am. Football",Dallas Cowboys vs. Philadelphia Eagles Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756696592-AlWExTOxKQoSOgIIZywUGEVaQMUz7KfIBhwRpLmQ634%3D
+https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756700654-L6WglQgAsQ47xKR2g9krSb%2BF7QTPwXTnvt1NbFDHRNY%3D
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="StreamEast - Am. Football",Tampa Bay vs. Atlanta Live Stream
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="StreamEast - Am. Football",Kansas City Chiefs vs. Los Angeles Chargers Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756696664-HggRd6bu9LTUKeL2DZw8NyK9oZuZixVBvCEcOA4Jdx4%3D
+https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756700679-Ay0pFsfKeHQqsFuXzruFK50abOCBIoFYTE%2F%2FoFr7XUY%3D
 
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/NFL4.png" group-title="StreamEast - Am. Football",Tennessee vs. Denver Live Stream
+#EXTINF:-1 tvg-id="NCAA.Football.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CFB3.png" group-title="StreamEast - College Football",TCU Horned Frogs vs. North Carolina Live Stream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 #EXTVLCOPT:http-origin=https://streamscenter.online
 #EXTVLCOPT:http-referrer=https://streamscenter.online/
-https://fl1.moveonjoy.com/NFL_NETWORK/tracks-v1a1/mono.m3u8?verify=1756696667-q9OdNwlriWudB2JevH2kqAYMnzd25WgDTOHb9ZDAzww%3D
+https://mainstreams.pro/hls/JHDAJBDnjdna30.m3u8?st=EzqzN5qv46d3Zj7BTkL1EfXeX0Qf-IRb195RrV6raTA&e=1756711491
+
+#EXTINF:-1 tvg-id="UFC.Fight.Pass.Dummy.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/MMA.png" group-title="StreamEast - MMA",UFC Fight Night: Imavov vs. Borralho Live Stream
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
+#EXTVLCOPT:http-origin=https://streamscenter.online
+#EXTVLCOPT:http-referrer=https://streamscenter.online/
+https://fl1.moveonjoy.com/MLB_NETWORK/tracks-v1a1/mono.m3u8?verify=1756700709-a2jog5SgbEfgl7OfwXxalhPXGaxdhrMmYicclUdR2tQ%3D
 
